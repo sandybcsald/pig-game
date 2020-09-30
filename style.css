@@ -125,7 +125,7 @@ button:hover i { margin-right: 20px; }
 button:focus {
     outline: none;
 }
-
+// just a comment
 i {
     color: #EB4D4D;
     display: inline-block;
